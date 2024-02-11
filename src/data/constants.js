@@ -21,7 +21,7 @@ export const skills = [
     title: "Frontend",
     skills: [
       {
-        name: "ReactJs",
+        name: "React Js",
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
@@ -420,7 +420,7 @@ export const projects = [
     description:
       " Created as a College event website as Final Year Project. Website was developed to enhanced the accessibility and engagement of college events for both administrators and users. It is like a centralized platform for college event information and imagery",
     image:
-      "https://private-user-images.githubusercontent.com/96580022/302642270-3bbc1fcc-f6e7-48a2-a028-d8bdfedd034c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc2NzMxMzAsIm5iZiI6MTcwNzY3MjgzMCwicGF0aCI6Ii85NjU4MDAyMi8zMDI2NDIyNzAtM2JiYzFmY2MtZjZlNy00OGEyLWEwMjgtZDhiZGZlZGQwMzRjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjExVDE3MzM1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjZTljOGMzOGYxZDdhN2FlNTMzZWM4ZWQxYjYzZWQ5YTZiM2JkNWNiMGNjODBjMjRjNGI1ZThjOWM5ZTM0YTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.22uvGIdLio5OFh1l940SDhFC7IldzFEBVXijWzBvn40",
+      "https://github.com/manishjadhav9/IOPE-Diaries/assets/96580022/3bbc1fcc-f6e7-48a2-a028-d8bdfedd034c",
     tags: [
       "HTML",
       "CSS",
@@ -439,7 +439,7 @@ export const projects = [
     description:
       "This project is a simple calculator implemented using HTML, CSS, and JavaScript. It was created as a practice exercise to enhance skills in web development, specifically focusing on HTML structure, CSS styling, and JavaScript functionality.",
     image:
-      "https://private-user-images.githubusercontent.com/96580022/302634593-ecf24abc-9476-4ffc-8b40-f0a6d5c33297.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc2NzMxODcsIm5iZiI6MTcwNzY3Mjg4NywicGF0aCI6Ii85NjU4MDAyMi8zMDI2MzQ1OTMtZWNmMjRhYmMtOTQ3Ni00ZmZjLThiNDAtZjBhNmQ1YzMzMjk3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjExVDE3MzQ0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyNDI2NWJiMzJmOWEzNTAyMjcxMDkwYmJkMDVlYTZhYzMxNzAxNGI0MDI2YzAxMzM0YjJlNDA2MjcyNTJjYzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.FYiS8IwrPjtvTMomO4ch5lH5ep7N9UCC0x5_hQ8HJak",
+      "https://github.com/manishjadhav9/calculator_using_javascript/assets/96580022/ecf24abc-9476-4ffc-8b40-f0a6d5c33297",
     tags: ["HTML", "CSS", "Javascript"],
     category: "web app",
     github: "https://github.com/manishjadhav9/calculator_using_javascript",
@@ -452,7 +452,7 @@ export const projects = [
     description:
       " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
     image:
-      "https://private-user-images.githubusercontent.com/96580022/303926956-5f46f63a-35cc-490e-b9da-b8cedd0aa994.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc2NzMyMjMsIm5iZiI6MTcwNzY3MjkyMywicGF0aCI6Ii85NjU4MDAyMi8zMDM5MjY5NTYtNWY0NmY2M2EtMzVjYy00OTBlLWI5ZGEtYjhjZWRkMGFhOTk0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjExVDE3MzUyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRjZGM0MTBhMjY3NjQ2ODI4MDk1NjQ2OGNjZDVhNzA2NDZmY2M4MzAyOWI4YTQ2MjNkNTE1ZTM0ODJhMmMyMWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dDnyXk2He532j7JrYetC7lJtFZ0RfY7Qf5e4YY6S5jM",
+      "https://github.com/manishjadhav9/FrontEnd-Basics/assets/96580022/5f46f63a-35cc-490e-b9da-b8cedd0aa994",
     tags: ["HTML", "CSS", "Javascript"],
     category: "web app",
     github: "https://github.com/manishjadhav9/FrontEnd-Basics/tree/main/Amazon__Clone",
