@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "//github.com/manishjadhav9/Manish-Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "//github.com/manishjadhav9/Manish-Portfolio/static/js/main.ed613e09.js",
+    "static/media/ManishJadhav.jpg": "//github.com/manishjadhav9/Manish-Portfolio/static/media/ManishJadhav.4e9a724cd5cb3a201a8a.jpg",
+    "index.html": "//github.com/manishjadhav9/Manish-Portfolio/index.html",
+    "main.bf538fe7.css.map": "//github.com/manishjadhav9/Manish-Portfolio/static/css/main.bf538fe7.css.map",
+    "main.ed613e09.js.map": "//github.com/manishjadhav9/Manish-Portfolio/static/js/main.ed613e09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.ed613e09.js"
+  ]
+}
