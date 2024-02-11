@@ -1,7 +1,7 @@
 {
   "name": "manish-jadhav-portfolio",
   "version": "0.1.0",
-  "homepage": "https://https://github.com/manishjadhav9/Manish-Portfolio",
+  "homepage": "https://https://github.com/manishjadhav9/Manish-Portfolio/public/index.html",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
