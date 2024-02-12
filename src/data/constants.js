@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/manishjadhav9",
   resume:
-    "https://drive.google.com/file/d/1xhPyxH9xM2XnscbUw0XH8tSrqAEyZVq3/view?usp=drive_link",
+    "https://drive.google.com/file/d/1Ki0eJF2-2OnVER1j6e4Tg_VJZKHtKwQ6/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/manishjadhav9/",
   twitter: "https://twitter.com/manishjadhav28",
   insta: "https://www.instagram.com/maanishhh.28/",
