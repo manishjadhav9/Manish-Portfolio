@@ -447,10 +447,23 @@ export const projects = [
   },
   {
     id: 2,
+    title: "Netflix Clone",
+    date: "Nov 2023",
+    description:
+      " This Amazon frontend clone aims to replicate the appearance and basic functionality of the Amazon website, focusing on users who primarily access the internet through long screen devices such as laptops and desktop computers. Unlike the original Amazon site, which is responsive and adapts to various screen sizes, this clone is optimized for larger screens and does not adjust its layout for smaller devices like smartphones and tablets.",
+    image:
+      "https://camo.githubusercontent.com/981d7dcb3101af5be3f5069f95672e6a953335aaeae41c19fe9f6c2ada45049b/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f535f466455433750307a6e4d2d54324b795870444571425951746b7567635573365a4e376330476e342d632f72733a6669743a3836303a303a302f673a63652f6148523063484d364c793933595778732f634746775a584a6a59585a6c4c6d4e762f6253393363433933634455774e6a4d7a2f4e4449756347356e",
+    tags: ["HTML", "Javascript", "TailwindCSS", "Firebase"],
+    category: "web app",
+    github: "https://github.com/manishjadhav9/netflix-react-tailwind",
+    // webapp: "https://rishav-react-todo.netlify.app/",
+  },
+  {
+    id: 3,
     title: "Amazon Clone Frontend",
     date: "Jan 2024",
     description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      " This Amazon frontend clone aims to replicate the appearance and basic functionality of the Amazon website, focusing on users who primarily access the internet through long screen devices such as laptops and desktop computers. Unlike the original Amazon site, which is responsive and adapts to various screen sizes, this clone is optimized for larger screens and does not adjust its layout for smaller devices like smartphones and tablets.",
     image:
       "https://github.com/manishjadhav9/FrontEnd-Basics/assets/96580022/5f46f63a-35cc-490e-b9da-b8cedd0aa994",
     tags: ["HTML", "CSS", "Javascript"],
