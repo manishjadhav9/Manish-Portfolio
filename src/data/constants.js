@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I'm a dedicated computer engineering student with a passion for learning and delivering high-quality results. With a positive attitude and a growth mindset, I'm ready to make a meaningful contribution.",
+    "Welcome to my portfolio! I'm a dedicated computer engineering student with a passion for learning and delivering high-quality results. With a positive attitude and a growth mindset, I'm ready to make a meaningful contribution and tackle new challenges head-on.",
   github: "https://github.com/manishjadhav9",
   resume:
     "https://drive.google.com/file/d/1Ki0eJF2-2OnVER1j6e4Tg_VJZKHtKwQ6/view?usp=sharing",
