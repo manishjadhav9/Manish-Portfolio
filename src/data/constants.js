@@ -420,7 +420,7 @@ export const projects = [
     description:
       " Created as a College event website as Final Year Project. Website was developed to enhanced the accessibility and engagement of college events for both administrators and users. It is like a centralized platform for college event information and imagery",
     image:
-      "https://github.com/manishjadhav9/IOPE-Diaries/assets/96580022/3bbc1fcc-f6e7-48a2-a028-d8bdfedd034c",
+      "https://private-user-images.githubusercontent.com/96580022/302642270-3bbc1fcc-f6e7-48a2-a028-d8bdfedd034c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc5MTUxMDcsIm5iZiI6MTcwNzkxNDgwNywicGF0aCI6Ii85NjU4MDAyMi8zMDI2NDIyNzAtM2JiYzFmY2MtZjZlNy00OGEyLWEwMjgtZDhiZGZlZGQwMzRjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE0VDEyNDY0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmZWM2NDFhMDE3NTEzZDg0ODc2NjU1YWUzZmNlNGMwODZlYjZlNjEwOWRkOTA4M2JhYzZkZTk5ZjEyNDhmMTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.k538RROKNFv2bwoV9DJAl2g6WMaEwY7wKuSU1EFiK30",
     tags: [
       "HTML",
       "CSS",
@@ -439,7 +439,7 @@ export const projects = [
     description:
       "This project is a simple calculator implemented using HTML, CSS, and JavaScript. It was created as a practice exercise to enhance skills in web development, specifically focusing on HTML structure, CSS styling, and JavaScript functionality.",
     image:
-      "https://github.com/manishjadhav9/calculator_using_javascript/assets/96580022/ecf24abc-9476-4ffc-8b40-f0a6d5c33297",
+      "https://private-user-images.githubusercontent.com/96580022/302634593-ecf24abc-9476-4ffc-8b40-f0a6d5c33297.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc5MTUxNjAsIm5iZiI6MTcwNzkxNDg2MCwicGF0aCI6Ii85NjU4MDAyMi8zMDI2MzQ1OTMtZWNmMjRhYmMtOTQ3Ni00ZmZjLThiNDAtZjBhNmQ1YzMzMjk3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE0VDEyNDc0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllOGFlZDNiNTI0Mzg4MTY3ZTJiMWVjOWM5N2RmZDVhYmZlYjY0MThhOGIzNGQ1YTUyZmQyMGM1ZDgxZTJiMzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NJ6YGp72AhhOkRn3PK8vb5aWizKGoDvW6dxXiTH75BE",
     tags: ["HTML", "CSS", "Javascript"],
     category: "web app",
     github: "https://github.com/manishjadhav9/calculator_using_javascript",
@@ -465,7 +465,7 @@ export const projects = [
     description:
       " This Amazon frontend clone aims to replicate the appearance and basic functionality of the Amazon website, focusing on users who primarily access the internet through long screen devices such as laptops and desktop computers. Unlike the original Amazon site, which is responsive and adapts to various screen sizes, this clone is optimized for larger screens and does not adjust its layout for smaller devices like smartphones and tablets.",
     image:
-      "https://github.com/manishjadhav9/FrontEnd-Basics/assets/96580022/5f46f63a-35cc-490e-b9da-b8cedd0aa994",
+      "https://private-user-images.githubusercontent.com/96580022/303926956-5f46f63a-35cc-490e-b9da-b8cedd0aa994.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc5MTUxOTgsIm5iZiI6MTcwNzkxNDg5OCwicGF0aCI6Ii85NjU4MDAyMi8zMDM5MjY5NTYtNWY0NmY2M2EtMzVjYy00OTBlLWI5ZGEtYjhjZWRkMGFhOTk0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE0VDEyNDgxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRhZTg4ZDBkZDljN2M5NWQ3NDg4MTlkN2RiNmY3NDQ3ODRlMjZiNDFjMDQ0NDRkMGI0ZWZlYzljNTIxMDgxNjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1iz8E9KGijV4rPnltA3Qxgksq2UEf-nBJHuC7PGXPqE",
     tags: ["HTML", "CSS", "Javascript"],
     category: "web app",
     github: "https://github.com/manishjadhav9/FrontEnd-Basics/tree/main/Amazon__Clone",
