@@ -420,7 +420,7 @@ export const projects = [
     description:
       " Created as a College event website as Final Year Project. Website was developed to enhanced the accessibility and engagement of college events for both administrators and users. It is like a centralized platform for college event information and imagery",
     image:
-      "https://private-user-images.githubusercontent.com/96580022/302642270-3bbc1fcc-f6e7-48a2-a028-d8bdfedd034c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgwODIyNTAsIm5iZiI6MTcwODA4MTk1MCwicGF0aCI6Ii85NjU4MDAyMi8zMDI2NDIyNzAtM2JiYzFmY2MtZjZlNy00OGEyLWEwMjgtZDhiZGZlZGQwMzRjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE2VDExMTIzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3NWI1ZTQ3NzA5NmNlMTA1M2E5ZTFkOTI2OTE1MGE2YmQ4OThhYWRhNTQyZTdjOTNmMDUyOTY3ZWYxNmJjNTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3zgzjPtJKnDQ6cm53RfV9m0HQNbp5LHoPaXc7Zu563w",
+      "https://github.com/manishjadhav9/IOPE-Diaries/assets/96580022/3bbc1fcc-f6e7-48a2-a028-d8bdfedd034c",
     tags: [
       "HTML",
       "CSS",
@@ -439,7 +439,7 @@ export const projects = [
     description:
       "This project is a simple calculator implemented using HTML, CSS, and JavaScript. It was created as a practice exercise to enhance skills in web development, specifically focusing on HTML structure, CSS styling, and JavaScript functionality.",
     image:
-      "https://private-user-images.githubusercontent.com/96580022/302634593-ecf24abc-9476-4ffc-8b40-f0a6d5c33297.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgwODIyODQsIm5iZiI6MTcwODA4MTk4NCwicGF0aCI6Ii85NjU4MDAyMi8zMDI2MzQ1OTMtZWNmMjRhYmMtOTQ3Ni00ZmZjLThiNDAtZjBhNmQ1YzMzMjk3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE2VDExMTMwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3ZWVkYzk1NDYwZTYyMjk0NzRjYjQ1MDJhNTI0YWFiOTc5ODk0MGM5MTljZDA0MjAwNDVhOWZlYmQ0NDgzOWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.FzOSoIOH6W1aOiqg5LoZOEAR_AevfjMayv_JGNwgQw8",
+      "https://github.com/manishjadhav9/calculator_using_javascript/assets/96580022/ecf24abc-9476-4ffc-8b40-f0a6d5c33297",
     tags: ["HTML", "CSS", "Javascript"],
     category: "web app",
     github: "https://github.com/manishjadhav9/calculator_using_javascript",
@@ -452,7 +452,7 @@ export const projects = [
     description:
       "This project is a Netflix clone built using HTML, JavaScript (ReactJS), Tailwind CSS, and Firebase. The goal of this project is to recreate the Netflix user interface and functionality, providing users with a familiar and enjoyable streaming experience.",
     image:
-      "https://private-userimages.githubusercontent.com/981d7dcb3101af5be3f5069f95672e6a953335aaeae41c19fe9f6c2ada45049b/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f535f466455433750307a6e4d2d54324b795870444571425951746b7567635573365a4e376330476e342d632f72733a6669743a3836303a303a302f673a63652f6148523063484d364c793933595778732f634746775a584a6a59585a6c4c6d4e762f6253393363433933634455774e6a4d7a2f4e4449756347356e",
+      "https://imgs.search.brave.com/S_FdUC7P0znM-T2KyXpDEqBYQtkugcUs6ZN7c0Gn4-c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDUwNjMz/NDIucG5n",
     tags: ["HTML", "Javascript", "TailwindCSS", "Firebase"],
     category: "web app",
     github: "https://github.com/manishjadhav9/netflix-react-tailwind",
@@ -465,7 +465,7 @@ export const projects = [
     description:
       " This Amazon frontend clone aims to replicate the appearance and basic functionality of the Amazon website, focusing on users who primarily access the internet through long screen devices such as laptops and desktop computers. Unlike the original Amazon site, which is responsive and adapts to various screen sizes, this clone is optimized for larger screens and does not adjust its layout for smaller devices like smartphones and tablets.",
     image:
-      "https://private-user-images.githubusercontent.com/96580022/303926956-5f46f63a-35cc-490e-b9da-b8cedd0aa994.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgwODE1ODIsIm5iZiI6MTcwODA4MTI4MiwicGF0aCI6Ii85NjU4MDAyMi8zMDM5MjY5NTYtNWY0NmY2M2EtMzVjYy00OTBlLWI5ZGEtYjhjZWRkMGFhOTk0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE2VDExMDEyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1MzRhYzA0NWRhZmM1YWNjYzRjMTIzOWFmOGJkNDg3Mjk1NWJiOWYxNTU5MWZlNWQwNjRkOGEyNDhjMjNiZTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mRMRKJKoAD3RzHQqfwCMo1DuPQE2FcVstr2xnA0db3M",
+      "https://github.com/manishjadhav9/FrontEnd-Basics/assets/96580022/5f46f63a-35cc-490e-b9da-b8cedd0aa994",
     tags: ["HTML", "CSS", "Javascript"],
     category: "web app",
     github: "https://github.com/manishjadhav9/FrontEnd-Basics/tree/main/Amazon__Clone",
