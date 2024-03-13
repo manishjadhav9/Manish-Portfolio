@@ -434,6 +434,32 @@ export const projects = [
   },
   {
     id: 1,
+    title: "Expense Tracker",
+    date: "February 2024-March 2024",
+    description:
+      "Expense Tracker is a web application built with ReactJS for the frontend, Node.js for the backend, and MongoDB for the database. It allows users to add and delete income and expenses to track their money. The application also plots a graph using the expense and income data to provide a visual representation of the financial situation.",
+    image:
+      "https://github.com/manishjadhav9/Expense_Tracker/assets/96580022/ea5ea33c-3224-40fc-a097-b7c1243f7813",
+    tags: ["Javascript", "ReactJS", "NodeJS", "MongoDB"],
+    category: "web app",
+    github: "https://github.com/manishjadhav9/Expense_Tracker",
+    // webapp: "https://rishav-react-todo.netlify.app/",
+  },
+  {
+    id: 2,
+    title: "Student Result Generation System",
+    date: "January 2024 - March 2024",
+    description:
+      "Expense Tracker is a web application built with ReactJS for the frontend, Node.js for the backend, and MongoDB for the database. It allows users to add and delete income and expenses to track their money. The application also plots a graph using the expense and income data to provide a visual representation of the financial situation.",
+    image:
+      "https://github.com/manishjadhav9/StudentResult/assets/96580022/8e09b776-9aba-439b-b1b4-b89d3d5d4da4",
+    tags: ["HTML", "CSS", "Javascript", "PHP", "MySQL", "Bootstrap"],
+    category: "web app",
+    github: "https://github.com/manishjadhav9/StudentResult",
+    // webapp: "https://rishav-react-todo.netlify.app/",
+  },
+  {
+    id: 3,
     title: "Calculator Using Javascript",
     date: "Sep 2023",
     description:
@@ -446,7 +472,7 @@ export const projects = [
     // webapp: "https://rishav-react-todo.netlify.app/",
   },
   {
-    id: 2,
+    id: 4,
     title: "Netflix Clone",
     date: "Nov 2023",
     description:
@@ -459,7 +485,7 @@ export const projects = [
     // webapp: "https://rishav-react-todo.netlify.app/",
   },
   {
-    id: 3,
+    id: 5,
     title: "Amazon Clone Frontend",
     date: "Jan 2024",
     description:
