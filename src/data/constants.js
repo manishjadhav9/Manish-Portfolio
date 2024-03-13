@@ -10,7 +10,7 @@ export const Bio = {
     "Welcome to my portfolio! I'm a dedicated computer engineering student with a passion for learning and delivering high-quality results. With a positive attitude and a growth mindset, I'm ready to make a meaningful contribution and tackle new challenges head-on.",
   github: "https://github.com/manishjadhav9",
   resume:
-    "https://drive.google.com/file/d/1a8DtHwZt7C7G0AlurmajuOD06meuaFDD/view?usp=sharing",
+    "https://drive.google.com/file/d/1pAvMYt2LbHdHRpcxgHtddvVtnVTB6SIB/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/manishjadhav9/",
   twitter: "https://twitter.com/manishjadhav28",
   insta: "https://www.instagram.com/maanishhh.28/",
